@@ -3,4 +3,6 @@ git commit
 git clone
 git init
 git remote -v
-
+git pull
+git push
+git fetch
